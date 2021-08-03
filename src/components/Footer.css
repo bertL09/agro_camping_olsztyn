@@ -1,0 +1,13 @@
+.footer{
+    padding:0.5vh 0 0.5vh;
+    background-color: #227691;
+    color: #ffff;
+    text-align: center;
+    font-size: 2vh;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 10px 20px 10px #227691;
+    z-index: 50;
+    text-shadow: 0 0 1.5px #ffff;
+}
